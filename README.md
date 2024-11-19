@@ -12,9 +12,9 @@ Aprender a usar o sistema de versionamento GitHub para criar um repositório e g
 
 ✅ Pasta do projeto com o arquivo [`index.html`](index.html) inicial.
 
-✅ A pasta `images` com a imagem selecionada.
+✅ A pasta [`images`](./images/) com a imagem selecionada.
 
-✅ O arquivo `index.html` atualizado com a referência à imagem.
+✅ Referência à [`imagem escolhida`](./images/giphy.webp) no arquivo HTML.
 
 ---
 
