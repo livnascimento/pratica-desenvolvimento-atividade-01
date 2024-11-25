@@ -2,7 +2,7 @@
 
 ## Teste
 
-O link para visualizar a página está na sessão sobre desse repoitório, mas você também pode chegar lá [por aqui](https://livnascimento.github.io/pratica-desenvolvimento-atividade-01/).
+O link para visualizar a página está na sessão sobre desse repositório, mas você também pode chegar lá [por aqui](https://livnascimento.github.io/pratica-desenvolvimento-atividade-01/).
 
 ## Objetivos
 Aprender a usar o sistema de versionamento GitHub para criar um repositório e gerenciar suas versões.
